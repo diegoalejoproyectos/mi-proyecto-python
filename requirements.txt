@@ -1,0 +1,2 @@
+# Aquí van tus dependencias de Python, por ejemplo:
+# flask
