@@ -1,0 +1,4 @@
+# .gitpod.yml
+tasks:
+  - init: pip install -r requirements.txt || true
+    command: python main.py || bash
